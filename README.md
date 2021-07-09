@@ -5,7 +5,7 @@ This forces the learning algorithm to not only fit the data but also keep the mo
 It is important to scale the data (e.g., using a StandardScaler) before performing Ridge Regression, as it is sensitive to the scale of the input features. This is true of most regularized models.
 
 #### Content Includes:
-- Perform Ridge Regression with Scikit-Learn using a closed-form solution
+- Perform Ridge Regression with Scikit-Learn using a closed-form solution.
 - Perform Ridge Regression using Stochastic Gradient Descent by adding a regularization term to the cost function equal to half the square of the ℓ2 norm of the weight vector.
 
 This repo is my learning notebook following the book:
