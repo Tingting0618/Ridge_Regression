@@ -8,6 +8,12 @@ It is important to scale the data (e.g., using a StandardScaler) before performi
 - Perform Ridge Regression with Scikit-Learn using a closed-form solution.
 - Perform Ridge Regression using Stochastic Gradient Descent by adding a regularization term to the cost function equal to half the square of the ℓ2 norm of the weight vector.
 
-This repo is my learning notebook following the book:
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron (O’Reilly).
-Copyright 2019 Kiwisoft S.A.S., 978-1-492-03264-9.
+
+## Learn More
+
+For more information, please check out the [Project Portfolio](https://tingting0618.github.io).
+
+## Reference
+
+This repo is my learning journal following:
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron (O’Reilly). Copyright 2019 Kiwisoft S.A.S., 978-1-492-03264-9.
